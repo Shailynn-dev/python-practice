@@ -1,4 +1,4 @@
-# python-practice
+# Python-practice
 
 This repository contains Python exercises, logic challenges, and practice work completed while learning programming fundamentals.
 
