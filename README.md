@@ -15,7 +15,12 @@ This notebook is mainly used for:
 
 Some cells may contain experimental code, draft solutions, or practice snippets created during the learning process.
 
+## usage of AI
+
+- Ai is mainly used to design coding questions to practice off and to learn from.
+
 ### Tools Used
 - Python
 - Google Colab
 - GitHub
+- AI
